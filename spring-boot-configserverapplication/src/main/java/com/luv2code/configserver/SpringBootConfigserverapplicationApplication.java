@@ -9,7 +9,7 @@ import org.springframework.retry.annotation.Retryable;
 @EnableConfigServer
 @Retryable
 public class SpringBootConfigserverapplicationApplication {
-
+//main
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootConfigserverapplicationApplication.class, args);
 	}
